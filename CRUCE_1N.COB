@@ -1,9 +1,9 @@
-      *----------------------------------------------------------------*
+      *----------------------------------------------------------------*  
       *    OBJETIVO:  Este programa realiza un cruce 1n entre          *
-      *    dos ficheros por una clave de un solo carácter, la última   *
+      *    dos ficheros por una clave de un solo carÃ¡cter, la Ãºltima   *
       *    del registro.                                               *
       *    REQUISITOS: Los registros de lectura deben estar ordenados  *
-      *    en ascendente por el código (último byte de registro).      *
+      *    en ascendente por el cÃ³digo (Ãºltimo byte de registro).      *
       *----------------------------------------------------------------*
 
 
